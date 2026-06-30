@@ -79,11 +79,11 @@ SQL was used to:
 
 ### Sales by Region
 
-![Sales by Region](screenshots/sales_by_region.png)
+![Sales by Region](screenshots/sales-by-region.png)
 
 ### Profit by Category
 
-![Profit by Category](screenshots/profit_by_category.png)
+![Profit by Category](screenshots/profit-by-category.png)
 
 ---
 
