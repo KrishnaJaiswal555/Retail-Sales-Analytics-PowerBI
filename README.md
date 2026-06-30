@@ -89,16 +89,21 @@ SQL was used to:
 
 ## Folder Structure
 
+```text
 Retail-Sales-Analytics-PowerBI/
 │
 ├── data/
+│ 
 ├── powerbi_dashboard/
-├── screenshots/
+│  
 ├── sql/
+│   
+├── screenshots/
+│  
 ├── README.md
 ├── .gitignore
 └── LICENSE
----
+```
 
 ## Future Improvements
 
