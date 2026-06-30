@@ -93,13 +93,9 @@ SQL was used to:
 Retail-Sales-Analytics-PowerBI/
 │
 ├── data/
-│ 
 ├── powerbi_dashboard/
-│  
 ├── sql/
-│   
-├── screenshots/
-│  
+├── screenshots/ 
 ├── README.md
 ├── .gitignore
 └── LICENSE
